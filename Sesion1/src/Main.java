@@ -9,6 +9,7 @@ public class Main {
 			System.out.println("Paso 4: Version 1 creada");
 			System.out.println("Paso 5: rama 5");
 			System.out.println("Paso 6: rama 8");
+			System.out.println("Paso 7: rama 8 descontinuada");
 			
 		}
 }
